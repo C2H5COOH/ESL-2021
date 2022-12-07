@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.cdt.gdb:9.11.1.202004012021"/>
+		<item value="org.eclipse.cdt.gnu.build:9.11.1.202004012021"/>
+		<item value="org.eclipse.cdt.gnu.debug:9.11.1.202004012021"/>
+		<item value="org.eclipse.cdt.gnu.dsf:9.11.1.202004251940"/>
+		<item value="org.eclipse.cdt.native:9.11.1.202005051837"/>
+		<item value="org.eclipse.cdt.platform:9.11.1.202006151137"/>
+		<item value="org.eclipse.cdt:9.11.1.202006151137"/>
+		<item value="org.eclipse.cvs:1.4.1300.v20200305-0155"/>
+		<item value="org.eclipse.egit.gitflow.feature:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.egit:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.emf.common:2.18.0.v20191225-1014"/>
+		<item value="org.eclipse.emf.ecore:2.21.0.v20200127-1342"/>
+		<item value="org.eclipse.help:2.3.100.v20200305-0155"/>
+		<item value="org.eclipse.jgit.http.apache:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.jgit:5.7.0.202003110725-r"/>
+		<item value="org.eclipse.launchbar.remote:2.4.100.202001141724"/>
+		<item value="org.eclipse.launchbar:2.4.100.202001141724"/>
+		<item value="org.eclipse.platform:4.15.0.v20200305-0155"/>
+		<item value="org.eclipse.rcp:4.15.0.v20200305-0155"/>
+	</list>
+</section>
